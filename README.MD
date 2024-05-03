@@ -2,15 +2,17 @@
 
 ![home-beauty](./assets/images/home-beauty.png)
 
+[Visite o projeto](https://beautysalon-mu.vercel.app/)
+
 ## 💻 Sobre
 Projeto OriginSix - Rocketseat. Site feito com objetivo de aprender e aprofundar mais no HTML, CSS e Javascript.
 
 ## 🤯 O site é composto por:
-- Home: Apresentação da marca;
-- Sobre nós: História da empresa;
-- Serviços: Serviços oferecidos pela marca;
-- Depoimentos: Depoimentos de clientes da Beautysalon;
-- Contato: Seção para os leads entrarem em contato.
+- **Home:** Apresentação da marca;
+- **Sobre nós:** História da empresa;
+- **Serviços:** Serviços oferecidos pela marca;
+- **Depoimentos:** Depoimentos de clientes da Beautysalon;
+- **Contato:** Seção para os leads entrarem em contato.
 
 ## 🧠 Tecnologias utilizadas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
